@@ -1,5 +1,6 @@
 //Mostrar por consola un "Hola" seguido de una String que contenga un nombre.
 
+
 package practicasSimples;
 
 public class Ej1 {

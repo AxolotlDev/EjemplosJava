@@ -1,5 +1,6 @@
 // Pedir dos numeros enteros y luego mostrar la suma de ambos.
 
+
 package practicasSimples;
 
 import java.util.Scanner;

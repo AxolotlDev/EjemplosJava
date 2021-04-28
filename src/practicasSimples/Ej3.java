@@ -1,4 +1,5 @@
 //Ingresar una cantidad indefinida de numeros, hasta que se ingrese 0  y sumar los numeros ingresados.
+
 package practicasSimples;
 
 import java.util.ArrayList;
